@@ -8,9 +8,32 @@ OSCP Preperation Guide and References.
 
 __*I am just beggining to prepare for the OSCP exam, so I plan for this repository to grow over time and I will contribute reguraly*__ 
 
+## OSCP Topics
+*Main topics to help guide to developing a study plan*
+|**Topics**|
+|:---------|
+|Passive Info Gathering||
+|Active Info Gathering||
+|Vuln Scanning||
+|Web Application Attacks||
+|Buffer Overflows Overview||
+|Windows Buffer Overflows||
+|Linux Buffer Overflows||
+|Client-Side Attacks||
+|Locating Public Exploits||
+|Fixing Exploits||
+|File Transfers||
+|Anti-Virus Evasion||
+|Privilege Escalation||
+|Password Attacks||
+|Port Redirection and Tunneling||
+|AD-Attacks||
+|Metaploit||
+|Powershell||
+
 
 ## OSCP Overview
-### Info:
+### Information:
 The exam consists of several target machines that must be compromised. Some of the machines will require multiple exploitation steps, resulting first in low-level local access, and then in root or administrative privilege escalation. Other machines will be fully exploitable remotely. Specific instructions for each target will be located in your Exam Control Panel, which will only become available to you once your exam begins.
 
 ### Exam RESTRICTIONS
