@@ -24,6 +24,15 @@ You cannot use any of the following:
 * **You are ultimately responsible for knowing what features or external utilities any chosen tool is using. The primary objective of the OSCP exam is to evaluate your skills in identifying and exploiting vulnerabilities, not in automating the process.**
 * **You may however, use tools such as nmap (and scripting engine), Nikto, BurpFree, DirBuster, etc.** 
 
+### Metasploit Restrictions
+The usage of Metasploit and the Meterpreter payload are restricted during the exam. You may only use Metasploit modules ( Auxiliary, Exploit, and Post ) or the Meterpreter payload against one single target machine of your choice.
+
+However, you may use the following against all of the target machines:
+* multi handler (aka exploit/multi/handler)
+* msfvenom
+* pattern_create.rb
+* pattern_offset.rb
+
 ## Resources
 ```bash
 #Official Documentation
