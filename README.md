@@ -36,7 +36,7 @@ __*I am just beggining to prepare for the OSCP exam, so I plan for this reposito
 ### Information:
 The exam consists of several target machines that must be compromised. Some of the machines will require multiple exploitation steps, resulting first in low-level local access, and then in root or administrative privilege escalation. Other machines will be fully exploitable remotely. Specific instructions for each target will be located in your Exam Control Panel, which will only become available to you once your exam begins.
 
-### Exam RESTRICTIONS
+### Exam Restrictions:
 You cannot use any of the following:
 * Spoofing (IP, ARP, DNS, NBNS, etc)
 * Commercial tools or services (Metasploit Pro, Burp Pro, etc.)
@@ -47,7 +47,7 @@ You cannot use any of the following:
 * **You are ultimately responsible for knowing what features or external utilities any chosen tool is using. The primary objective of the OSCP exam is to evaluate your skills in identifying and exploiting vulnerabilities, not in automating the process.**
 * **You may however, use tools such as nmap (and scripting engine), Nikto, BurpFree, DirBuster, etc.** 
 
-### Metasploit Restrictions
+### Metasploit Restrictions:
 The usage of Metasploit and the Meterpreter payload are restricted during the exam. You may only use Metasploit modules ( Auxiliary, Exploit, and Post ) or the Meterpreter payload against one single target machine of your choice.
 
 However, you may use the following against all of the target machines:
