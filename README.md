@@ -13,9 +13,6 @@ __*I am just beggining to prepare for the OSCP exam, so I plan for this reposito
 ### Info:
 The exam consists of several target machines that must be compromised. Some of the machines will require multiple exploitation steps, resulting first in low-level local access, and then in root or administrative privilege escalation. Other machines will be fully exploitable remotely. Specific instructions for each target will be located in your Exam Control Panel, which will only become available to you once your exam begins.
 
-```bash
-Your objective is to exploit each of the target machines and provide proof of exploitation. Each target machine contains at least one proof file, which you must retrieve, submit in your control panel, and include in a screenshot with your documentation.
-```
 ### Exam RESTRICTIONS
 You cannot use any of the following:
 * Spoofing (IP, ARP, DNS, NBNS, etc)
