@@ -9,7 +9,7 @@ After ientifying information about the target, you need to consider how to acces
 |Database Assessment|| 
 
 
-
+## Resources 
 ```bash
 # Articles
 https://www.hackingarticles.in/category/nmap/
