@@ -1,4 +1,4 @@
-#Information Gathering 
+# Information Gathering 
 
 Obtain information about the organization/target by using OSINT and Recon such as:
 * Social Media
@@ -6,7 +6,7 @@ Obtain information about the organization/target by using OSINT and Recon such a
 * Google Hacking
 * Footprinting the target
 
-##Goal
+## Goal
 1. Learn about the target
 2. How the target behaves
 3. How the target operates
