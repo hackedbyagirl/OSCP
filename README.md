@@ -37,4 +37,5 @@ However, you may use the following against all of the target machines:
 ```bash
 #Official Documentation
 https://help.offensive-security.com/hc/en-us/articles/360040165632
+https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf
 ```
