@@ -4,6 +4,7 @@ After ientifying information about the target, you need to consider how to acces
 |**Assesment Catagories**|
 |:-----------------------|
 |Intel Gathering||
+|Vulnerability Scanning||
 |Network Assesment||
 |Web Assessment||
 |Database Assessment|| 
