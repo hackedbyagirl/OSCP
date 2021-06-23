@@ -1,38 +1,14 @@
 # OSCP
-OSCP Preperation Guide and References.
+Created to track my process as I go through the OSCP, I include cheatsheets, checklists, personal commands I use, etc. Although this is for personal use, if anyone new to/ taking the OSCP needs some different perspective on approaches, feel free to use my methodology approach to help develop yours. 
 
 ## Goal:
-* List of resources, tools, and tactics in order to prepare for the OSCP exam.
+* List of resources, tools, and tactics for the OSCP exam.
 * Always accepting more links/stuff. Feel free to make a pull request. 
 
 
-__*I am just beggining to prepare for the OSCP exam, so I plan for this repository to grow over time and I will contribute reguraly*__ 
-
-## OSCP Topics
-*Main topics to help guide to developing a study plan*
-|**Topics**|
-|:---------|
-|Passive Info Gathering||
-|Active Info Gathering||
-|Vuln Scanning||
-|Web Application Attacks||
-|Buffer Overflows Overview||
-|Windows Buffer Overflows||
-|Linux Buffer Overflows||
-|Client-Side Attacks||
-|Locating Public Exploits||
-|Fixing Exploits||
-|File Transfers||
-|Anti-Virus Evasion||
-|Privilege Escalation||
-|Password Attacks||
-|Port Redirection and Tunneling||
-|AD-Attacks||
-|Metaploit||
-|Powershell||
-
-
 ## OSCP Overview
+Description: Basic information about the exam to remember. 
+
 ### Information:
 The exam consists of several target machines that must be compromised. Some of the machines will require multiple exploitation steps, resulting first in low-level local access, and then in root or administrative privilege escalation. Other machines will be fully exploitable remotely. Specific instructions for each target will be located in your Exam Control Panel, which will only become available to you once your exam begins.
 
@@ -40,7 +16,7 @@ The exam consists of several target machines that must be compromised. Some of t
 You cannot use any of the following:
 * Spoofing (IP, ARP, DNS, NBNS, etc)
 * Commercial tools or services (Metasploit Pro, Burp Pro, etc.)
-* Automatic exploitation tools (e.g. db_autopwn, browser_autopwn, SQLmap, SQLninja etc.)
+* Automatic exploitation tools (e.g. db_autopwn, browser_autopwn, SQLmap, SQLninja, now linpeas, etc.)
 * Mass vulnerability scanners (e.g. Nessus, NeXpose, OpenVAS, Canvas, Core Impact, SAINT, etc.)
 * Features in other tools that utilize either forbidden or restricted exam limitations
 * Any tools that provide similar functions as those listed above
