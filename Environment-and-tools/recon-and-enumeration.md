@@ -12,4 +12,10 @@ git clone https://github.com/evyatarmeged/Raccoon.git
 cd Raccoon
 python setup.py install
 ```
+## enum4linux-ng 
+Description: Use to enumerate information from Windows and Samba systems
 
+```bash
+#install
+git clone https://github.com/cddmp/enum4linux-ng && cd enum4linux-ng
+```
