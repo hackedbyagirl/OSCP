@@ -18,4 +18,5 @@ Description: An area to keep track of progress in a high-level manner
 - [ ] etc
 - [ ] etc
 
-
+## Findings
+- 10.XX.XX.XX has too many ports open may want to revisit later
