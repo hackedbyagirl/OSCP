@@ -1,5 +1,5 @@
 # OSCP
-Created to track my process as I go through the OSCP, I include cheatsheets, checklists, personal commands I use, etc. Although this is for personal use, if anyone new to/ taking the OSCP needs some different perspective on approaches, feel free to use my methodology approach to help develop yours. 
+Created to track my process as I go through the OSCP, I include cheatsheets, checklists, personal commands I use, as I also apply certain methodologies in my real pentesting carrer. Although this is for personal use, if anyone new to/ taking the OSCP needs some different perspective on approaches, feel free to use my methodology approach to help develop yours. 
 
 ## Goal:
 * List of resources, tools, and tactics for the OSCP exam.
