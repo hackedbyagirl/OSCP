@@ -2,26 +2,19 @@
 
 Establish a place to take notes regarding certain tools and information about them
 
-
-
 ***
 
-**Table of Contents** 
-
-[TOC]
-
-***
 
 ## Seclists Intallation
-
+Description: Seclists Installation
 ```bash
 # For Kali Seclist Instaliation
 apt -y install seclists
 ```
-***
-## Go 
 
-Golang installation 
+
+## Go 
+Description: Golang installation w/ add to path
 
 ``` bash
 #Installing Golang 
@@ -37,14 +30,13 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 source ~/.zshrc 
 ```
 
-***
-### Python Pip3/venv/pipx
 
+## Python Pip3/venv/pipx
 Description: Virtual environement setup for pip(x)/venv -- mainly used for WitnessMe
 
 ```bash
 #Setup and installation
-apt-get install python3-venv
+sudo apt-get install python3-venv
 python3 -m pip install --user pipx
 python3 -m pipx ensurepath
 ```
