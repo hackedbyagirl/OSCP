@@ -1,10 +1,17 @@
-# OSCP
-Created to track my process as I go through the OSCP, I include cheatsheets, checklists, personal commands I use, as I also apply certain methodologies in my real pentesting carrer. Although this is for personal use, if anyone new to/ taking the OSCP needs some different perspective on approaches, feel free to use my methodology approach to help develop yours. 
+# Structure
+* **Cheatsheets:** Tracks common commands used for specific tools (nmap/burpsuite/etc) and resources on common topics. 
+* **Checklists:** Contains checklists for certain stages of the pentest (Ex. Web Assessment, FTP assessment, Privilege Escalation, etc.)
+* **Environment and Tools:** Contains environment setup configuration commands/notes I use on new vms and commands/notes for installing useful pentesting tools.
+* ***Note-Taking:** Contains the file structure/outline I use for taking notes throughout the pentesting phase. I use this for OSCP note taking and my real world Pentration Testing job. 
 
-## Goal:
-* List of resources, tools, and tactics for the OSCP exam.
+*Note: This repository is under active development so these files are not complete and will updated frequently*
+***
+
+## Goals:
+* List resources, tools, and tactics for the OSCP exam as well as personal repository for career job
 * Always accepting more links/stuff. Feel free to make a pull request. 
-
+* Offering a perspective of OSCP methodology approach for anyone who needs ideas for their own methodology development
+***
 
 ## OSCP Overview
 Description: Basic information about the exam to remember. 
