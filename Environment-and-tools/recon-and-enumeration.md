@@ -19,3 +19,7 @@ Description: Use to enumerate information from Windows and Samba systems
 #install
 git clone https://github.com/cddmp/enum4linux-ng && cd enum4linux-ng
 ```
+
+## amass
+```bash
+go get -u https://github.com/OWASP/Amass
