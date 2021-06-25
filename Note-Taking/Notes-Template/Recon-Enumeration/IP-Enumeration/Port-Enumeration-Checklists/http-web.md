@@ -7,18 +7,25 @@
 * [ ] Try to locate /robots.txt /crossdomain.xml /clientaccesspolicy.xml /sitemap.xml and /.well-known/
 * [ ] Review comments on source code 
 * [ ] Directory/subdomain Enumeration
+  * [ ] Config file enumeration
+  * [ ] General
 * [ ] Identify WAF 
 * [ ] Google Dorking?
 * [ ] Check potential vulnerable urls
 * [ ] Find hidden parameters \([paramspider](https://github.com/devanshbatham/ParamSpider)\)
-* [ ] XXS Vulnerabilities
+* [ ] Common Vulnerabilites
+  * [ ] sqli
+  * [ ] Lei/rfi
+  * [ ] File upload
+  * [ ] xss
+  * [ ] comand injection
+  * [ ] remote command execution
 * [ ] Check for backup files 
 * [ ] Locate admin and login panel
 * [ ] Broken link hijacking 
 * [ ] Get all JS files
 * [ ] JS hardcoded APIs and secrets \([secretfinder](https://github.com/m4ll0k/SecretFinder)\)
 * [ ] JS analysis \([JSParser](https://github.com/nahamsec/JSParser), [JSFScan](https://github.com/KathanP19/JSFScan.sh), [JSScanner](https://github.com/dark-warlord14/JSScanner), [jshole](https://github.com/callforpapers-source/jshole)\)
-
 ***
 
 ## User Management
