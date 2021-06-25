@@ -9,5 +9,5 @@
       2. Add information gathered to Domain Tracker Excel Sheet
    2. **IP Address Enumeration**
       1. Review Checklist
-      2. Add information gathered to Domain Tracker Excel Sheet
+      2. Add information gathered to IP Tracker Excel Sheet
 
