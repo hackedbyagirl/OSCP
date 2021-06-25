@@ -2,7 +2,7 @@
 * **Cheatsheets:** Tracks common commands used for specific tools (nmap/burpsuite/etc) and resources on common topics. 
 * **Checklists:** Contains checklists for certain stages of the pentest (Ex. Web Assessment, FTP assessment, Privilege Escalation, etc.)
 * **Environment and Tools:** Contains environment setup configuration commands/notes I use on new vms and commands/notes for installing useful pentesting tools.
-* ***Note-Taking:** Contains the file structure/outline I use for taking notes throughout the pentesting phase. I use this for OSCP note taking and my real world Pentration Testing job. 
+* ***Note-Taking:** Contains the file structure/outline I use for taking notes throughout the pentesting phase. I use this for OSCP note taking and my real world Pentration Testing job. **This also contains checklists and commands**
 
 *Note: This repository is under active development so these files are not complete and will updated frequently*
 ***
