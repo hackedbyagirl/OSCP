@@ -34,8 +34,7 @@
     - [ ] proftpd.conf
 
 - [ ] Common command Check
-
-  - [ ] | *?*/help                    | print local help information              |
+    | *?*/help                    | print local help information              |
     | --------------------------- | ----------------------------------------- |
     | *append*                    | Append to a file                          |
     | *ascii*                     | set ascii transfer type                   |
@@ -57,4 +56,6 @@
     | *size*                      | show size of remote file                  |
     | *type*                      | set file transfer type                    |
     | *verbose*                   | toggle verbose mode                       |
+
+
 
