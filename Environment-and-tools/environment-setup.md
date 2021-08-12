@@ -1,7 +1,6 @@
-# Description
-
-Establish a place to take notes regarding certain tools and information about them
-
+# Environmental Set Up Tools
+## Description
+A list containing tools for basic environmental setup including intallation commands and required packages.
 ***
 
 
@@ -11,7 +10,6 @@ Description: Seclists Installation
 # For Kali Seclist Instaliation
 apt -y install seclists
 ```
-
 
 ## Go 
 Description: Golang installation w/ add to path
@@ -30,8 +28,9 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 source ~/.zshrc 
 ```
 
+## Python Env
 
-## Python Pip3/venv/pipx
+### Python Pip3/venv/pipx
 Description: Virtual environement setup for pip(x)/venv -- mainly used for WitnessMe
 
 ```bash
@@ -40,3 +39,4 @@ sudo apt-get install python3-venv
 python3 -m pip install --user pipx
 python3 -m pipx ensurepath
 ```
+
