@@ -16,6 +16,9 @@ https://www.hacknos.com/rbash-escape-rbash-restricted-shell-escape/
 ```
 ### Linux Info
 ```bash
+# Adding Directory to $PATH
+https://linuxize.com/post/how-to-add-directory-to-path-in-linux/
+
 # Add all bin folders to path searchsploit 
 export PATH="$HOME/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:$PATH"
 
@@ -28,3 +31,11 @@ lsb_release -a
 # Search for kernel exploit
 searchsploit privilege | grep -i linux | grep -i kernel | grep X.X
 ```
+
+### Text handling
+
+```bash 
+#Removing Parenthesis from Text - can't overwrite file with '>'
+awk -F"[()]" '{print $2}' file 
+```
+
